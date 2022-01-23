@@ -1,5 +1,8 @@
-import "./navbar.css";
 import { Link } from "react-router-dom";
+
+// styles
+import "./navbar.css";
+import SearchBar from "./SearchBar";
 
 export default function Navbar() {
   return (
@@ -8,9 +11,8 @@ export default function Navbar() {
         <Link to="/" className="brand">
           <h1>Shahmar's Kitchen</h1>
         </Link>
-        <Link to="/create">
-          <h1>Create Recipe</h1>
-        </Link>
+        <SearchBar />
+        <Link to="/create">Create Recipe</Link>
       </nav>
     </div>
   );
