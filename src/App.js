@@ -4,7 +4,6 @@ import Home from "./pages/home/home.jsx";
 import Create from "./pages/create/create.jsx";
 import Search from "./pages/search/serach.jsx";
 import Recipe from "./pages/recipe/recipe.jsx";
-
 import "./App.css";
 
 function App() {
@@ -16,7 +15,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/create" element={<Create />} />
           <Route path="/search" element={<Search />} />
-          <Route path="/recipes/*" element={<Recipe />} />
+          <Route path="/recipes/:id" element={<Recipe />} />
         </Routes>
       </BrowserRouter>
     </div>
