@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Reciper-Recipe-Directory/static/css/main.e0fb4333.css",
-    "main.js": "/Reciper-Recipe-Directory/static/js/main.c6aa100d.js",
+    "main.js": "/Reciper-Recipe-Directory/static/js/main.5986e323.js",
     "static/js/787.af884608.chunk.js": "/Reciper-Recipe-Directory/static/js/787.af884608.chunk.js",
     "index.html": "/Reciper-Recipe-Directory/index.html",
     "main.e0fb4333.css.map": "/Reciper-Recipe-Directory/static/css/main.e0fb4333.css.map",
-    "main.c6aa100d.js.map": "/Reciper-Recipe-Directory/static/js/main.c6aa100d.js.map",
+    "main.5986e323.js.map": "/Reciper-Recipe-Directory/static/js/main.5986e323.js.map",
     "787.af884608.chunk.js.map": "/Reciper-Recipe-Directory/static/js/787.af884608.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0fb4333.css",
-    "static/js/main.c6aa100d.js"
+    "static/js/main.5986e323.js"
   ]
 }
