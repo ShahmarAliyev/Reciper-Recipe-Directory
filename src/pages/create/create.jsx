@@ -14,7 +14,7 @@ export default function Create() {
   const ingredientInput = useRef(null);
 
   const { postData, data } = useFetch(
-    "https://my-json-server.typicode.com/shahmaraliyev/db.json-for-Reciper/recipes",
+    "http://my-json-server.typicode.com/shahmaraliyev/db.json-for-Reciper/recipes",
     "POST"
   );
   const navigate = useNavigate();
