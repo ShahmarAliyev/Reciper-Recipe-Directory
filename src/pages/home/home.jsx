@@ -5,7 +5,7 @@ import RecipeList from "../../components/recipeList";
 
 export default function Home() {
   const { data, isPending, error } = useFetch(
-    "https://my-json-server.typicode.com/shahmaraliyev/db.json-for-Reciper/recipes"
+    "  http://localhost:3000/recipes"
   );
   // console.log(data);
   return (
