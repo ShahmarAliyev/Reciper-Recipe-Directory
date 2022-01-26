@@ -45,7 +45,6 @@ textarea {
 .dark .page-title,
 .dark .loading,
 .dark .error,
-.dark label,
-.dark p {
+.dark label {
   color: #e4e4e4;
 }
