@@ -38,6 +38,7 @@
       "cookingTime": "35 minutes"
     },
     {
+<<<<<<< HEAD
       "title": "f",
       "ingredients": [
         "f"
@@ -45,6 +46,15 @@
       "method": "f",
       "cookingTime": "5 minutes",
       "id": "cv1p1Rw"
+=======
+      "title": ";",
+      "ingredients": [
+        ";"
+      ],
+      "method": "l",
+      "cookingTime": "8 minutes",
+      "id": "JmQorqw"
+>>>>>>> 621aa40b5b2ad88082757c1ab45497666ece9989
     }
   ]
 }
