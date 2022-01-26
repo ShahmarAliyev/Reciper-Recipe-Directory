@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Reciper-Recipe-Directory/static/css/main.e0fb4333.css",
-    "main.js": "/Reciper-Recipe-Directory/static/js/main.21147757.js",
+    "main.css": "/Reciper-Recipe-Directory/static/css/main.53abae98.css",
+    "main.js": "/Reciper-Recipe-Directory/static/js/main.f67a5def.js",
     "static/js/787.af884608.chunk.js": "/Reciper-Recipe-Directory/static/js/787.af884608.chunk.js",
     "index.html": "/Reciper-Recipe-Directory/index.html",
-    "main.e0fb4333.css.map": "/Reciper-Recipe-Directory/static/css/main.e0fb4333.css.map",
-    "main.21147757.js.map": "/Reciper-Recipe-Directory/static/js/main.21147757.js.map",
+    "static/media/modeIcon.svg": "/Reciper-Recipe-Directory/static/media/modeIcon.651cf79205ce37eeacd56da0aef056a9.svg",
+    "main.53abae98.css.map": "/Reciper-Recipe-Directory/static/css/main.53abae98.css.map",
+    "main.f67a5def.js.map": "/Reciper-Recipe-Directory/static/js/main.f67a5def.js.map",
     "787.af884608.chunk.js.map": "/Reciper-Recipe-Directory/static/js/787.af884608.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0fb4333.css",
-    "static/js/main.21147757.js"
+    "static/css/main.53abae98.css",
+    "static/js/main.f67a5def.js"
   ]
 }
