@@ -7,7 +7,9 @@ import "./recipe.css";
 
 export default function Recipe() {
   const { id } = useParams();
-  const url = "http://localhost:3000/recipes/" + id;
+  const url =
+    "https://my-json-server.typicode.com/shahmaraliyev/db.json-for-Reciper/recipes/" +
+    id;
   const { error, isPending, data: recipe } = useFetch(url);
   const { mode } = useTheme();
   console.log(mode);

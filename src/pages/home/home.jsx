@@ -4,7 +4,9 @@ import { useFetch } from "../../hooks/useFetch";
 import RecipeList from "../../components/recipeList";
 
 export default function Home() {
-  const { data, isPending, error } = useFetch("http://localhost:3000/recipes");
+  const { data, isPending, error } = useFetch(
+    "https://my-json-server.typicode.com/shahmaraliyev/db.json-for-Reciper/recipes"
+  );
   // console.log(data);
   return (
     <div className="home">
