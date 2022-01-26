@@ -6,10 +6,13 @@ import Search from "./pages/search/serach.jsx";
 import Recipe from "./pages/recipe/recipe.jsx";
 import "./App.css";
 import ThemeSelector from "./components/ThemeSelector.js";
+import { useTheme } from "./hooks/useTheme.js";
 
 function App() {
+  const { mode } = useTheme();
+
   return (
-    <div className="App">
+    <div className={`App ${mode}`}>
       <HashRouter>
         <Navbar />
         <ThemeSelector />
